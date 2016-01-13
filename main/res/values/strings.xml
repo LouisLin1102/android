@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">身高</string>
+    <string name="weight">體重</string>
+
+    <string name="bmi_low">偏低</string>
+    <string name="bmi_normal">正常</string>
+    <string name="bmi_high">偏高</string>
+    <string name="bmi_overhigh">過高</string>
+    <string name="bmi_value_error">BMI 參數錯誤</string>
+    <string name="bmi_record">BMI 記錄：</string>
+</resources>
