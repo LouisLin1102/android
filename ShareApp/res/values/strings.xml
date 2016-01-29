@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShareApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_text">輸入文字</string>
+    <string name="setText">分享文字</string>
+    <string name="share">請選擇分享對象</string>
+    <string name="openC">開啟相簿</string>
+    <string name="setAll">SHARE</string>
+</resources>
