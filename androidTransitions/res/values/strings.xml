@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">activitytohtml</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="taiwan_info">taiwan_info</string>
+    <string name="sanya_info">sanya_info</string>
+    <string name="great_view">great_view</string>
+</resources>
