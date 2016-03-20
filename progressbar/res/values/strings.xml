@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">progressbar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_seekbar_value">取SEEKBAR值</string>
+    <string name="get_ratingbar_value">取RATINGBAR值</string>
+</resources>

@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/layout">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/iBtn1"
+            android:onClick="onClick"
+            android:contentDescription="@string/taiwan_info"
+            android:transitionName="@string/taiwan_info"
+            android:tag="@string/taiwan_info"
+            android:src="@drawable/banner1" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/iBtn2"
+            android:onClick="onClick"
+            android:contentDescription="@string/sanya_info"
+            android:transitionName="@string/sanya_info"
+            android:tag="@string/sanya_info"
+            android:src="@drawable/banner2" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/iBtn3"
+            android:onClick="onClick"
+            android:contentDescription="@string/great_view"
+            android:transitionName="@string/great_view"
+            android:tag="@string/great_view"
+            android:src="@drawable/banner3" />
+
+    </LinearLayout>
+</RelativeLayout>
